@@ -5,19 +5,19 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [ACEL](merged_spac_html/ACEL.html)
 
-[ACHR](merged_spac_html/ACHR.html)
+[ACHR completed @ 2021-09-16](merged_spac_html/ACHR.html)
 
 [ADN](merged_spac_html/ADN.html)
 
-[ADSE](merged_spac_html/ADSE.html)
+[ADSE completed @ 2021-12-23](merged_spac_html/ADSE.html)
 
-[ADTH](merged_spac_html/ADTH.html)
+[ADTH completed @ 2021-12-23](merged_spac_html/ADTH.html)
 
 [ADV](merged_spac_html/ADV.html)
 
-[AEVA](merged_spac_html/AEVA.html)
+[AEVA completed @ 2021-03-12](merged_spac_html/AEVA.html)
 
-[AGIL](merged_spac_html/AGIL.html)
+[AGIL completed @ 2021-08-23](merged_spac_html/AGIL.html)
 
 [AHCO](merged_spac_html/AHCO.html)
 
@@ -27,9 +27,9 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [AMBP](merged_spac_html/AMBP.html)
 
-[AMPS](merged_spac_html/AMPS.html)
+[AMPS completed @ 2021-12-09](merged_spac_html/AMPS.html)
 
-[ANGH](merged_spac_html/ANGH.html)
+[ANGH completed @ 2022-02-04](merged_spac_html/ANGH.html)
 
 [APPH](merged_spac_html/APPH.html)
 
@@ -45,65 +45,65 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [ASTL](merged_spac_html/ASTL.html)
 
-[ASTR](merged_spac_html/ASTR.html)
+[ASTR completed @ 2021-06-30](merged_spac_html/ASTR.html)
 
-[ASTS](merged_spac_html/ASTS.html)
+[ASTS completed @ 2021-04-06](merged_spac_html/ASTS.html)
 
-[ATIP](merged_spac_html/ATIP.html)
+[ATIP completed @ 2021-06-16](merged_spac_html/ATIP.html)
 
 [AUID](merged_spac_html/AUID.html)
 
-[AUR](merged_spac_html/AUR.html)
+[AUR completed @ 2021-11-03](merged_spac_html/AUR.html)
 
-[AVPT](merged_spac_html/AVPT.html)
+[AVPT completed @ 2021-07-01](merged_spac_html/AVPT.html)
 
-[BARK](merged_spac_html/BARK.html)
+[BARK completed @ 2021-06-01](merged_spac_html/BARK.html)
 
-[BBAI](merged_spac_html/BBAI.html)
+[BBAI completed @ 2021-12-07](merged_spac_html/BBAI.html)
 
 [BBCP](merged_spac_html/BBCP.html)
 
 [BFLY](merged_spac_html/BFLY.html)
 
-[BGRY](merged_spac_html/BGRY.html)
+[BGRY completed @ 2021-07-21](merged_spac_html/BGRY.html)
 
-[BHIL](merged_spac_html/BHIL.html)
+[BHIL completed @ 2021-09-29](merged_spac_html/BHIL.html)
 
-[BKKT](merged_spac_html/BKKT.html)
+[BKKT completed @ 2021-10-15](merged_spac_html/BKKT.html)
 
-[BKSY](merged_spac_html/BKSY.html)
+[BKSY completed @ 2021-09-09](merged_spac_html/BKSY.html)
 
 [BLBX](merged_spac_html/BLBX.html)
 
-[BLDE](merged_spac_html/BLDE.html)
+[BLDE completed @ 2021-05-07](merged_spac_html/BLDE.html)
 
-[BODY](merged_spac_html/BODY.html)
+[BODY completed @ 2021-07-16](merged_spac_html/BODY.html)
 
-[BOWL](merged_spac_html/BOWL.html)
+[BOWL completed @ 2021-12-15](merged_spac_html/BOWL.html)
 
-[BOXD](merged_spac_html/BOXD.html)
+[BOXD completed @ 2021-12-08](merged_spac_html/BOXD.html)
 
 [BTRS](merged_spac_html/BTRS.html)
 
-[BTTX](merged_spac_html/BTTX.html)
+[BTTX completed @ 2021-11-18](merged_spac_html/BTTX.html)
 
 [BWMX](merged_spac_html/BWMX.html)
 
-[BZFD](merged_spac_html/BZFD.html)
+[BZFD completed @ 2021-12-03](merged_spac_html/BZFD.html)
 
-[CANO](merged_spac_html/CANO.html)
+[CANO completed @ 2021-06-03](merged_spac_html/CANO.html)
 
-[CCCS](merged_spac_html/CCCS.html)
+[CCCS completed @ 2021-07-30](merged_spac_html/CCCS.html)
 
 [CDEV](merged_spac_html/CDEV.html)
 
-[CELU](merged_spac_html/CELU.html)
+[CELU completed @ 2021-07-16](merged_spac_html/CELU.html)
 
 [CERE](merged_spac_html/CERE.html)
 
-[CHPT](merged_spac_html/CHPT.html)
+[CHPT completed @ 2021-03-09](merged_spac_html/CHPT.html)
 
-[CIFR](merged_spac_html/CIFR.html)
+[CIFR completed @ 2021-08-27](merged_spac_html/CIFR.html)
 
 [CLBT](merged_spac_html/CLBT.html)
 
@@ -113,29 +113,29 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [CLVT](merged_spac_html/CLVT.html)
 
-[CMAX](merged_spac_html/CMAX.html)
+[CMAX completed @ 2021-06-08](merged_spac_html/CMAX.html)
 
-[CMPO](merged_spac_html/CMPO.html)
+[CMPO completed @ 2021-12-28](merged_spac_html/CMPO.html)
 
-[CORZ](merged_spac_html/CORZ.html)
+[CORZ completed @ 2022-02-07](merged_spac_html/CORZ.html)
 
-[CPTN](merged_spac_html/CPTN.html)
+[CPTN completed @ 2022-02-14](merged_spac_html/CPTN.html)
 
-[CRXT](merged_spac_html/CRXT.html)
+[CRXT completed @ 2021-09-09](merged_spac_html/CRXT.html)
 
-[CTV](merged_spac_html/CTV.html)
+[CTV completed @ 2021-11-30](merged_spac_html/CTV.html)
 
 [CURI](merged_spac_html/CURI.html)
 
-[CVT](merged_spac_html/CVT.html)
+[CVT completed @ 2021-12-17](merged_spac_html/CVT.html)
 
-[CYXT](merged_spac_html/CYXT.html)
+[CYXT completed @ 2021-07-29](merged_spac_html/CYXT.html)
 
 [CZOO](merged_spac_html/CZOO.html)
 
-[DAVE](merged_spac_html/DAVE.html)
+[DAVE completed @ 2022-01-05](merged_spac_html/DAVE.html)
 
-[DCGO](merged_spac_html/DCGO.html)
+[DCGO completed @ 2021-11-17](merged_spac_html/DCGO.html)
 
 [DKNG](merged_spac_html/DKNG.html)
 
@@ -143,55 +143,55 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [DMTK](merged_spac_html/DMTK.html)
 
-[DNA](merged_spac_html/DNA.html)
+[DNA completed @ 2021-09-16](merged_spac_html/DNA.html)
 
 [DNMR](merged_spac_html/DNMR.html)
 
-[DOMA](merged_spac_html/DOMA.html)
+[DOMA completed @ 2021-07-28](merged_spac_html/DOMA.html)
 
-[DRTS](merged_spac_html/DRTS.html)
+[DRTS completed @ 2022-03-08](merged_spac_html/DRTS.html)
 
 [DSKE](merged_spac_html/DSKE.html)
 
-[EFTR](merged_spac_html/EFTR.html)
+[EFTR completed @ 2021-08-25](merged_spac_html/EFTR.html)
 
-[ELMS](merged_spac_html/ELMS.html)
+[ELMS completed @ 2021-06-25](merged_spac_html/ELMS.html)
 
-[EMBK](merged_spac_html/EMBK.html)
+[EMBK completed @ 2021-11-10](merged_spac_html/EMBK.html)
 
-[ENJY](merged_spac_html/ENJY.html)
+[ENJY completed @ 2021-10-15](merged_spac_html/ENJY.html)
 
-[ENSC](merged_spac_html/ENSC.html)
+[ENSC completed @ 2021-06-15](merged_spac_html/ENSC.html)
 
-[ENVX](merged_spac_html/ENVX.html)
+[ENVX completed @ 2021-07-14](merged_spac_html/ENVX.html)
 
 [EOSE](merged_spac_html/EOSE.html)
 
 [EQOS](merged_spac_html/EQOS.html)
 
-[EQRX](merged_spac_html/EQRX.html)
+[EQRX completed @ 2021-12-17](merged_spac_html/EQRX.html)
 
 [ETWO](merged_spac_html/ETWO.html)
 
-[EVEX](merged_spac_html/EVEX.html)
+[EVEX completed @ 2022-05-09](merged_spac_html/EVEX.html)
 
-[EVGO](merged_spac_html/EVGO.html)
+[EVGO completed @ 2021-07-01](merged_spac_html/EVGO.html)
 
-[EVLV](merged_spac_html/EVLV.html)
+[EVLV completed @ 2021-07-16](merged_spac_html/EVLV.html)
 
-[FATH](merged_spac_html/FATH.html)
+[FATH completed @ 2021-12-23](merged_spac_html/FATH.html)
 
-[FFIE](merged_spac_html/FFIE.html)
+[FFIE completed @ 2021-07-21](merged_spac_html/FFIE.html)
 
 [FREE](merged_spac_html/FREE.html)
 
 [FREY](merged_spac_html/FREY.html)
 
-[FRGE](merged_spac_html/FRGE.html)
+[FRGE completed @ 2022-03-21](merged_spac_html/FRGE.html)
 
 [FSR](merged_spac_html/FSR.html)
 
-[FSRD](merged_spac_html/FSRD.html)
+[FSRD completed @ 2022-02-04](merged_spac_html/FSRD.html)
 
 [GB](merged_spac_html/GB.html)
 
@@ -203,7 +203,7 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [GGR](merged_spac_html/GGR.html)
 
-[GLS](merged_spac_html/GLS.html)
+[GLS completed @ 2022-01-13](merged_spac_html/GLS.html)
 
 [GMTX](merged_spac_html/GMTX.html)
 
@@ -211,35 +211,35 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [GRAB](merged_spac_html/GRAB.html)
 
-[GRNA](merged_spac_html/GRNA.html)
+[GRNA completed @ 2022-02-02](merged_spac_html/GRNA.html)
 
-[GWH](merged_spac_html/GWH.html)
+[GWH completed @ 2021-10-08](merged_spac_html/GWH.html)
 
 [HFFG](merged_spac_html/HFFG.html)
 
-[HGTY](merged_spac_html/HGTY.html)
+[HGTY completed @ 2021-12-02](merged_spac_html/HGTY.html)
 
 [HIMS](merged_spac_html/HIMS.html)
 
-[HIPO](merged_spac_html/HIPO.html)
+[HIPO completed @ 2021-08-02](merged_spac_html/HIPO.html)
 
-[HLBZ](merged_spac_html/HLBZ.html)
+[HLBZ completed @ 2021-09-10](merged_spac_html/HLBZ.html)
 
-[HLGN](merged_spac_html/HLGN.html)
+[HLGN completed @ 2021-12-30](merged_spac_html/HLGN.html)
 
-[HLLY](merged_spac_html/HLLY.html)
+[HLLY completed @ 2021-07-16](merged_spac_html/HLLY.html)
 
-[HLMN](merged_spac_html/HLMN.html)
+[HLMN completed @ 2021-07-14](merged_spac_html/HLMN.html)
 
-[HUMA](merged_spac_html/HUMA.html)
+[HUMA completed @ 2021-08-26](merged_spac_html/HUMA.html)
 
 [HYLN](merged_spac_html/HYLN.html)
 
 [HYMC](merged_spac_html/HYMC.html)
 
-[HYPR](merged_spac_html/HYPR.html)
+[HYPR completed @ 2021-12-22](merged_spac_html/HYPR.html)
 
-[HYZN](merged_spac_html/HYZN.html)
+[HYZN completed @ 2021-07-16](merged_spac_html/HYZN.html)
 
 [ID](merged_spac_html/ID.html)
 
@@ -253,47 +253,47 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [INVZ](merged_spac_html/INVZ.html)
 
-[IONQ](merged_spac_html/IONQ.html)
+[IONQ completed @ 2021-09-30](merged_spac_html/IONQ.html)
 
-[IRNT](merged_spac_html/IRNT.html)
+[IRNT completed @ 2021-08-26](merged_spac_html/IRNT.html)
 
 [IS](merged_spac_html/IS.html)
 
-[ISPO](merged_spac_html/ISPO.html)
+[ISPO completed @ 2022-02-14](merged_spac_html/ISPO.html)
 
 [ISUN](merged_spac_html/ISUN.html)
 
 [JBI](merged_spac_html/JBI.html)
 
-[JOBY](merged_spac_html/JOBY.html)
+[JOBY completed @ 2021-08-10](merged_spac_html/JOBY.html)
 
-[JSPR](merged_spac_html/JSPR.html)
+[JSPR completed @ 2021-09-24](merged_spac_html/JSPR.html)
 
 [KERN](merged_spac_html/KERN.html)
 
-[KIND](merged_spac_html/KIND.html)
+[KIND completed @ 2021-11-18](merged_spac_html/KIND.html)
 
 [KLR](merged_spac_html/KLR.html)
 
 [KORE](merged_spac_html/KORE.html)
 
-[KPLT](merged_spac_html/KPLT.html)
+[KPLT completed @ 2021-06-09](merged_spac_html/KPLT.html)
 
 [KXIN](merged_spac_html/KXIN.html)
 
 [LAZR](merged_spac_html/LAZR.html)
 
-[LCID](merged_spac_html/LCID.html)
+[LCID completed @ 2021-07-23](merged_spac_html/LCID.html)
 
 [LEV](merged_spac_html/LEV.html)
 
-[LFG](merged_spac_html/LFG.html)
+[LFG completed @ 2021-09-15](merged_spac_html/LFG.html)
 
-[LFLY](merged_spac_html/LFLY.html)
+[LFLY completed @ 2022-02-04](merged_spac_html/LFLY.html)
 
-[LLAP](merged_spac_html/LLAP.html)
+[LLAP completed @ 2022-03-25](merged_spac_html/LLAP.html)
 
-[LOCL](merged_spac_html/LOCL.html)
+[LOCL completed @ 2021-11-19](merged_spac_html/LOCL.html)
 
 [LOTZ](merged_spac_html/LOTZ.html)
 
@@ -301,81 +301,81 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [LSEA](merged_spac_html/LSEA.html)
 
-[LTCH](merged_spac_html/LTCH.html)
+[LTCH completed @ 2021-06-04](merged_spac_html/LTCH.html)
 
-[LTRY](merged_spac_html/LTRY.html)
+[LTRY completed @ 2021-11-19](merged_spac_html/LTRY.html)
 
-[LVOX](merged_spac_html/LVOX.html)
+[LVOX completed @ 2021-06-21](merged_spac_html/LVOX.html)
 
-[MAPS](merged_spac_html/MAPS.html)
+[MAPS completed @ 2021-06-15](merged_spac_html/MAPS.html)
 
-[ME](merged_spac_html/ME.html)
+[ME completed @ 2021-06-16](merged_spac_html/ME.html)
 
 [MGY](merged_spac_html/MGY.html)
 
 [MILE](merged_spac_html/MILE.html)
 
-[MIMO](merged_spac_html/MIMO.html)
+[MIMO completed @ 2021-08-13](merged_spac_html/MIMO.html)
 
-[MIR](merged_spac_html/MIR.html)
+[MIR completed @ 2021-10-20](merged_spac_html/MIR.html)
 
-[MKFG](merged_spac_html/MKFG.html)
+[MKFG completed @ 2021-07-14](merged_spac_html/MKFG.html)
 
-[MKTW](merged_spac_html/MKTW.html)
+[MKTW completed @ 2021-07-21](merged_spac_html/MKTW.html)
 
 [ML](merged_spac_html/ML.html)
 
-[MLTX](merged_spac_html/MLTX.html)
+[MLTX completed @ 2022-04-05](merged_spac_html/MLTX.html)
 
-[MNTS](merged_spac_html/MNTS.html)
+[MNTS completed @ 2021-08-12](merged_spac_html/MNTS.html)
 
 [MP](merged_spac_html/MP.html)
 
 [MPLN](merged_spac_html/MPLN.html)
 
-[MTTR](merged_spac_html/MTTR.html)
+[MTTR completed @ 2021-07-22](merged_spac_html/MTTR.html)
 
 [MULN](merged_spac_html/MULN.html)
 
-[MVST](merged_spac_html/MVST.html)
+[MVST completed @ 2021-07-23](merged_spac_html/MVST.html)
 
-[MYPS](merged_spac_html/MYPS.html)
+[MYPS completed @ 2021-06-21](merged_spac_html/MYPS.html)
 
-[NAUT](merged_spac_html/NAUT.html)
+[NAUT completed @ 2021-06-09](merged_spac_html/NAUT.html)
 
 [NKLA](merged_spac_html/NKLA.html)
 
 [NN](merged_spac_html/NN.html)
 
-[NRDY](merged_spac_html/NRDY.html)
+[NRDY completed @ 2021-09-20](merged_spac_html/NRDY.html)
 
-[NRGV](merged_spac_html/NRGV.html)
+[NRGV completed @ 2022-02-14](merged_spac_html/NRGV.html)
 
-[NRXP](merged_spac_html/NRXP.html)
+[NRXP completed @ 2021-05-24](merged_spac_html/NRXP.html)
 
 [NUVB](merged_spac_html/NUVB.html)
 
-[NVTS](merged_spac_html/NVTS.html)
+[NVTS completed @ 2021-10-19](merged_spac_html/NVTS.html)
 
 [NVVE](merged_spac_html/NVVE.html)
 
-[OPAD](merged_spac_html/OPAD.html)
+[OPAD completed @ 2021-09-01](merged_spac_html/OPAD.html)
 
-[OPEN](merged_spac_html/OPEN.html)
+[OPEN completed @ 2020-12-18](merged_spac_html/OPEN.html)
 
-[OPFI](merged_spac_html/OPFI.html)
+[OPFI completed @ 2021-07-20](merged_spac_html/OPFI.html)
 
-[ORGN](merged_spac_html/ORGN.html)
+[ORGN completed @ 2021-06-24](merged_spac_html/ORGN.html)
 
 [OSW](merged_spac_html/OSW.html)
 
 [OTMO](merged_spac_html/OTMO.html)
 
-[OUST](merged_spac_html/OUST.html)
+[OUST completed @ 2021-03-11](merged_spac_html/OUST.html)
 
-[OWL](merged_spac_html/OWL.html)
+[OWL completed @ 2021-05-19](merged_spac_html/OWL.html)
 
-[OWLT](merged_spac_html/OWLT.html)
+[OWLT completed @ 2021-07-15](merged_spac_html/OWLT.html)
 
 [PACK](merged_spac_html/PACK.html)
 
@@ -385,149 +385,149 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [PCT](merged_spac_html/PCT.html)
 
-[PEAR](merged_spac_html/PEAR.html)
+[PEAR completed @ 2021-12-03](merged_spac_html/PEAR.html)
 
 [PHUN](merged_spac_html/PHUN.html)
 
-[PIII](merged_spac_html/PIII.html)
+[PIII completed @ 2021-12-03](merged_spac_html/PIII.html)
 
-[PL](merged_spac_html/PL.html)
+[PL completed @ 2021-12-07](merged_spac_html/PL.html)
 
 [PLBY](merged_spac_html/PLBY.html)
 
-[PNT](merged_spac_html/PNT.html)
+[PNT completed @ 2021-06-30](merged_spac_html/PNT.html)
 
 [PRCH](merged_spac_html/PRCH.html)
 
-[PRDS](merged_spac_html/PRDS.html)
+[PRDS completed @ 2021-12-23](merged_spac_html/PRDS.html)
 
 [PRPL](merged_spac_html/PRPL.html)
 
 [PSFE](merged_spac_html/PSFE.html)
 
-[PTRA](merged_spac_html/PTRA.html)
+[PTRA completed @ 2021-06-14](merged_spac_html/PTRA.html)
 
-[PWP](merged_spac_html/PWP.html)
+[PWP completed @ 2021-06-24](merged_spac_html/PWP.html)
 
-[QNGY](merged_spac_html/QNGY.html)
+[QNGY completed @ 2022-02-08](merged_spac_html/QNGY.html)
 
 [QS](merged_spac_html/QS.html)
 
-[QSI](merged_spac_html/QSI.html)
+[QSI completed @ 2021-06-15](merged_spac_html/QSI.html)
 
-[QTEK](merged_spac_html/QTEK.html)
+[QTEK completed @ 2022-02-25](merged_spac_html/QTEK.html)
 
-[RBOT](merged_spac_html/RBOT.html)
+[RBOT completed @ 2021-09-17](merged_spac_html/RBOT.html)
 
-[RCOR](merged_spac_html/RCOR.html)
+[RCOR completed @ 2021-09-02](merged_spac_html/RCOR.html)
 
-[RDBX](merged_spac_html/RDBX.html)
+[RDBX completed @ 2021-10-22](merged_spac_html/RDBX.html)
 
-[RDW](merged_spac_html/RDW.html)
+[RDW completed @ 2021-09-02](merged_spac_html/RDW.html)
 
 [REE](merged_spac_html/REE.html)
 
-[REVB](merged_spac_html/REVB.html)
+[REVB completed @ 2022-01-11](merged_spac_html/REVB.html)
 
-[RGTI](merged_spac_html/RGTI.html)
+[RGTI completed @ 2022-03-01](merged_spac_html/RGTI.html)
 
 [RIDE](merged_spac_html/RIDE.html)
 
-[RKLB](merged_spac_html/RKLB.html)
+[RKLB completed @ 2021-08-24](merged_spac_html/RKLB.html)
 
 [RMO](merged_spac_html/RMO.html)
 
 [ROIV](merged_spac_html/ROIV.html)
 
-[ROVR](merged_spac_html/ROVR.html)
+[ROVR completed @ 2021-07-30](merged_spac_html/ROVR.html)
 
 [RPAY](merged_spac_html/RPAY.html)
 
 [RSI](merged_spac_html/RSI.html)
 
-[RSVR](merged_spac_html/RSVR.html)
+[RSVR completed @ 2021-07-28](merged_spac_html/RSVR.html)
 
-[SABS](merged_spac_html/SABS.html)
+[SABS completed @ 2021-10-22](merged_spac_html/SABS.html)
 
-[SAI](merged_spac_html/SAI.html)
+[SAI completed @ 2022-05-02](merged_spac_html/SAI.html)
 
-[SATL](merged_spac_html/SATL.html)
+[SATL completed @ 2022-01-26](merged_spac_html/SATL.html)
 
 [SEAT](merged_spac_html/SEAT.html)
 
-[SES](merged_spac_html/SES.html)
+[SES completed @ 2022-02-03](merged_spac_html/SES.html)
 
 [SFT](merged_spac_html/SFT.html)
 
 [SGHC](merged_spac_html/SGHC.html)
 
-[SHCR](merged_spac_html/SHCR.html)
+[SHCR completed @ 2021-07-01](merged_spac_html/SHCR.html)
 
-[SHPW](merged_spac_html/SHPW.html)
+[SHPW completed @ 2021-09-29](merged_spac_html/SHPW.html)
 
-[SKIL](merged_spac_html/SKIL.html)
+[SKIL completed @ 2021-06-15](merged_spac_html/SKIL.html)
 
-[SKIN](merged_spac_html/SKIN.html)
+[SKIN completed @ 2021-05-05](merged_spac_html/SKIN.html)
 
 [SKLZ](merged_spac_html/SKLZ.html)
 
-[SKYH](merged_spac_html/SKYH.html)
+[SKYH completed @ 2022-02-07](merged_spac_html/SKYH.html)
 
-[SLDP](merged_spac_html/SLDP.html)
+[SLDP completed @ 2021-12-08](merged_spac_html/SLDP.html)
 
-[SLGC](merged_spac_html/SLGC.html)
+[SLGC completed @ 2021-09-01](merged_spac_html/SLGC.html)
 
-[SMFR](merged_spac_html/SMFR.html)
+[SMFR completed @ 2021-07-22](merged_spac_html/SMFR.html)
 
 [SMPL](merged_spac_html/SMPL.html)
 
-[SMR](merged_spac_html/SMR.html)
+[SMR completed @ 2022-05-02](merged_spac_html/SMR.html)
 
-[SMRT](merged_spac_html/SMRT.html)
+[SMRT completed @ 2021-08-24](merged_spac_html/SMRT.html)
 
-[SNAX](merged_spac_html/SNAX.html)
+[SNAX completed @ 2021-07-20](merged_spac_html/SNAX.html)
 
-[SNCE](merged_spac_html/SNCE.html)
+[SNCE completed @ 2021-10-06](merged_spac_html/SNCE.html)
 
-[SOFI](merged_spac_html/SOFI.html)
+[SOFI completed @ 2021-05-28](merged_spac_html/SOFI.html)
 
-[SOND](merged_spac_html/SOND.html)
+[SOND completed @ 2022-01-18](merged_spac_html/SOND.html)
 
-[SOUN](merged_spac_html/SOUN.html)
+[SOUN completed @ 2022-04-27](merged_spac_html/SOUN.html)
 
 [SPCE](merged_spac_html/SPCE.html)
 
-[SPIR](merged_spac_html/SPIR.html)
+[SPIR completed @ 2021-08-16](merged_spac_html/SPIR.html)
 
-[SRZN](merged_spac_html/SRZN.html)
+[SRZN completed @ 2021-08-11](merged_spac_html/SRZN.html)
 
-[SST](merged_spac_html/SST.html)
+[SST completed @ 2022-02-07](merged_spac_html/SST.html)
 
-[STEM](merged_spac_html/STEM.html)
+[STEM completed @ 2021-04-28](merged_spac_html/STEM.html)
 
-[STRC](merged_spac_html/STRC.html)
+[STRC completed @ 2021-09-24](merged_spac_html/STRC.html)
 
 [STRY](merged_spac_html/STRY.html)
 
-[SUNL](merged_spac_html/SUNL.html)
+[SUNL completed @ 2021-07-09](merged_spac_html/SUNL.html)
 
 [SWVL](merged_spac_html/SWVL.html)
 
-[TALK](merged_spac_html/TALK.html)
+[TALK completed @ 2021-07-16](merged_spac_html/TALK.html)
 
-[TMC](merged_spac_html/TMC.html)
+[TMC completed @ 2021-09-09](merged_spac_html/TMC.html)
 
-[TNGX](merged_spac_html/TNGX.html)
+[TNGX completed @ 2021-08-10](merged_spac_html/TNGX.html)
 
-[TOI](merged_spac_html/TOI.html)
+[TOI completed @ 2021-11-12](merged_spac_html/TOI.html)
 
 [TTCF](merged_spac_html/TTCF.html)
 
 [UK](merged_spac_html/UK.html)
 
-[UP](merged_spac_html/UP.html)
+[UP completed @ 2021-07-13](merged_spac_html/UP.html)
 
-[UPH](merged_spac_html/UPH.html)
+[UPH completed @ 2021-06-09](merged_spac_html/UPH.html)
 
 [USWS](merged_spac_html/USWS.html)
 
@@ -535,19 +535,19 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [UWMC](merged_spac_html/UWMC.html)
 
-[VCSA](merged_spac_html/VCSA.html)
+[VCSA completed @ 2021-12-06](merged_spac_html/VCSA.html)
 
 [VIEW](merged_spac_html/VIEW.html)
 
 [VINC](merged_spac_html/VINC.html)
 
-[VLD](merged_spac_html/VLD.html)
+[VLD completed @ 2021-09-29](merged_spac_html/VLD.html)
 
 [VLDR](merged_spac_html/VLDR.html)
 
-[VLTA](merged_spac_html/VLTA.html)
+[VLTA completed @ 2021-08-26](merged_spac_html/VLTA.html)
 
-[VORB](merged_spac_html/VORB.html)
+[VORB completed @ 2021-12-31](merged_spac_html/VORB.html)
 
 [VRRM](merged_spac_html/VRRM.html)
 
@@ -555,9 +555,9 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [VVNT](merged_spac_html/VVNT.html)
 
-[VWE](merged_spac_html/VWE.html)
+[VWE completed @ 2021-06-07](merged_spac_html/VWE.html)
 
-[WE](merged_spac_html/WE.html)
+[WE completed @ 2021-10-20](merged_spac_html/WE.html)
 
 [WEJO](merged_spac_html/WEJO.html)
 
@@ -567,8 +567,8 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 
 [XL](merged_spac_html/XL.html)
 
-[XOS](merged_spac_html/XOS.html)
+[XOS completed @ 2021-08-19](merged_spac_html/XOS.html)
 
 [YTRA](merged_spac_html/YTRA.html)
 
-[ZEV](merged_spac_html/ZEV.html)
+[ZEV completed @ 2021-05-06](merged_spac_html/ZEV.html)
