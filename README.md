@@ -1,5 +1,50 @@
-# ds_spac_project
-Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
+# Analysing stock prices of SPACs
+Data Science Project for Open Uni: Identifying merging spacs for maximising profit in stock trading
+
+### The Problem
+Stock price prediction is large field that has been researched for many years.
+
+Although the field is broadly studied no single rule of thumb or bulletproof method exits for predicting stock prices
+
+Since the stock market is driven by supply and demand many consider it to be unpredictable and prone to speculations.
+
+Large investment companies trading in the stock market hire brokers who analyze prices using complex models including external information such as:  
+- News feeds 
+- Twitter activity
+- Indicators of global market changes (https://www.federalreserve.gov/publications.htm)
+- Company's profit Reports
+- Industry specific and regulation changes  
+- Black Swan events - unpredictable events that have a severe negative impact on the global economy
+
+### Hypothesis
+Our assumption is that by narrowing the research to a specific type of stocks (one having a similar behavior)
+we could gain some certainty and achieve a model that predicts prices
+with high enough precision to make mid-term buy/sell decisions.  
+
+#### What is a SPAC?
+SPAC is an acronym for a Special-Purpose Acquisition Company.
+A company without clients, employees, staff or product.
+
+It serves either of the 3 purposes bellow:
+- Raise money through an Initial Public Offering (IPO)
+- Find a private, target company
+- Acquire or merge with the target company to provide them a means to enter the public equity market without the target company going through a traditional IPO themselves
+
+Most Special-Purpose Acquisition Companies IPO with common shares offered at $10 a share. Once the deal is completed with the target company and the acquisition is successful, SPAC shareholders become shareholders of the acquired target company.
+
+For the target companies, SPACs provide a means to access public equity markets without having to go through an expensive and tedious IPO process. They are also guaranteed the full fund raised by SPAC investors--hundreds of millions, if not billions of dollars--upon the merger, thus eliminating the concern of being unable to raise money from a lackluster IPO.
+ 
+### Data Collection and Exploration
+We Collected the data from yahoo finance and https://stockmarketmba.com/
+
+The graphs include:
+- Merge date (where available)
+- Closing price
+- Trading Volume
+
+graphs were generated with plotly
+
+<details><summary>list of SPAC symbols with their trading data collected from Yahoo Finance</summary>
 
 [AADI](merged_spac_html/AADI.html)
 
@@ -572,3 +617,12 @@ Data Science Project for Open Uni 2022: Identifying merging spacs for max gain
 [YTRA](merged_spac_html/YTRA.html)
 
 [ZEV completed @ 2021-05-06](merged_spac_html/ZEV.html)
+
+</details>
+
+### Experiments and Anlysis
+<details>
+<summary>Expand</summary>
+</details>
+
+### Conclusions
