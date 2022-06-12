@@ -45,7 +45,7 @@ The graphs include:
 
 graphs were generated with plotly
 
-<details><summary>list of SPAC symbols with their trading data collected from Yahoo Finance</summary>
+#### list of SPAC symbols with their trading data collected from Yahoo Finance
 
 [AADI](merged_spac_html/AADI.html)
 
@@ -618,8 +618,6 @@ graphs were generated with plotly
 [YTRA](merged_spac_html/YTRA.html)
 
 [ZEV completed @ 2021-05-06](merged_spac_html/ZEV.html)
-
-</details>
 
 #### conclusions
 Most of the merged companies were traded around 10$ persistently until some time around the merge.
