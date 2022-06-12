@@ -2,13 +2,13 @@
 Data Science Project for Open Uni: Identifying merging spacs for maximising profit in stock trading
 
 ### The Problem
-Stock price prediction is large field that has been researched for many years.
+Stock price prediction is a large field that has been researched for many years.
 
 Although the field is broadly studied no single rule of thumb or bulletproof method exits for predicting stock prices
 
 Since the stock market is driven by supply and demand many consider it to be unpredictable and prone to speculations.
 
-Large investment companies trading in the stock market hire brokers who analyze prices using complex models including external information such as:  
+Large investment companies trading on the stock market hire brokers and analysts who analyze prices using complex models including external information such as:  
 - News feeds 
 - Twitter activity
 - Indicators of global market changes (https://www.federalreserve.gov/publications.htm)
@@ -18,8 +18,9 @@ Large investment companies trading in the stock market hire brokers who analyze 
 
 ### Hypothesis
 Our assumption is that by narrowing the research to a specific type of stocks (one having a similar behavior)
-we could gain some certainty and achieve a model that predicts prices
-with high enough precision to make mid-term buy/sell decisions.  
+we could gain some certainty and produce a model that predicts prices
+with high enough precision to make midterm buy/sell decisions.  
+We chose to focus on SPAC stocks.
 
 #### What is a SPAC?
 SPAC is an acronym for a Special-Purpose Acquisition Company.
@@ -620,9 +621,44 @@ graphs were generated with plotly
 
 </details>
 
-### Experiments and Anlysis
-<details>
-<summary>Expand</summary>
-</details>
+#### conclusions
+Most of the merged companies were traded around 10$ persistently until some time around the merge.
+The trading volume is also persistently low before the acquisition.
 
-### Conclusions
+[data collection notebook](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/ds_project_data_collection.ipynb)
+
+### Experiments and Anlysis
+We started by trying to predict the price of a single stock based on a 30 day observation.
+In several attempts we tried to use different subsets of features and different outputs (predict the closing price only vs all of the input features as well)
+We also tried several techniques for predicting multiple time steps ahead (predicting 4 days at a time vs predicting 1 day and feeding it back to the model in a loop)
+
+[Experiment 1](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/predicting_4d_base_on_25d_input.ipynb)
+
+[Experiment 2](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/prediction_with_nasdaq_feature.ipynb)
+
+[Experiment 3](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/using_model_prediction_as_input.ipynb)
+
+*** TODO: add notebooks and description
+
+#### Notice: 
+Our last attempt of predicting 20 days ahead gave interesting results. 
+- the predicted price was never above the actual price
+- the predicted timespan had an increase or decrease in price followed by a plateau
+- although the price range around the peak was different for every stock,
+using minmax normalization we were able to use a single model for multiple stocks
+
+### Conclusions and Next Steps
+While predicting one day ahead at a time results can be pretty accurate, it's not really usable
+Making midterm predictions several days ahead is magnitude harder
+Feeding the output of the model as input amplifies biases and creates distortions in the data that seem random
+
+*** TODO: add more conclutions based
+*** TODO: add next steps 
+
+### Terminology
+- ticker symbol - the 3-4 letter string by which a company is identified in the stock market
+- open price - the price of the stock at the beginning of day 
+- close price - the end of day price 
+- volume - the total amount of money the stock was traded that day
+- high - stocks daily highest selling price
+- low - stocks daily lowest selling price
