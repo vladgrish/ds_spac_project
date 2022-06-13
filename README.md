@@ -623,7 +623,7 @@ graphs were generated with plotly
 Most of the merged companies were traded around 10$ persistently until some time around the merge.
 The trading volume is also persistently low before the acquisition.
 
-[data collection notebook](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/ds_project_data_collection.ipynb)
+[data collection notebook](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/ds_project_data_collection.ipynb)
 
 ### Experiments and Anlysis
 We started by trying to predict the price of a single stock based on a 30 day observation.
@@ -631,18 +631,18 @@ In several attempts we tried to use different subsets of features and different 
 We also tried several techniques for predicting multiple time steps ahead (predicting 4 days at a time vs predicting 1 day and feeding it back to the model in a loop)
 
 At first we tried to predict a single stock closing price using only a sequence of closing prices from 60 days before</br>
-[Experiment 1](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/single_stock_prediction_with_lstm.ipynb)
+[Experiment 1](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/single_stock_prediction_with_lstm.ipynb)
 
 We then tried using multiple generated features in various combinations, trying to predict several days ahead, training the model on all using different stocks data</br>
-[Experiment 2](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/predicting_4d_base_on_25d_input.ipynb)
+[Experiment 2](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/predicting_4d_base_on_25d_input.ipynb)
 
-[Experiment 3](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/prediction_with_nasdaq_feature.ipynb)
+[Experiment 3](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/prediction_with_nasdaq_feature.ipynb)
 
 We attempted to compare the prediction results with GRU vs LSTM</br> 
-[Experiment 4](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/ds_project_gru_vs_lstm.ipynb)
+[Experiment 4](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/ds_project_gru_vs_lstm.ipynb)
 
-At last we tried to predict several time steps ahead by back feeding the output of the model</br>
-[Experiment 5](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/using_model_prediction_as_input.ipynb)
+At last we tried to predict several time steps ahead by back feeding the output of the model as input</br>
+[Experiment 5](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/using_model_prediction_as_input.ipynb)
 
 *** TODO: add notebooks and description
 
