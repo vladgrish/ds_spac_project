@@ -630,28 +630,44 @@ We started by trying to predict the price of a single stock based on a 30 day ob
 In several attempts we tried to use different subsets of features and different outputs (predict the closing price only vs all of the input features as well)
 We also tried several techniques for predicting multiple time steps ahead (predicting 4 days at a time vs predicting 1 day and feeding it back to the model in a loop)
 
-[Experiment 1](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/predicting_4d_base_on_25d_input.ipynb)
+At first we tried to predict a single stock closing price using only a sequence of closing prices from 60 days before</br>
+[Experiment 1](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/single_stock_prediction_with_lstm.ipynb)
 
-[Experiment 2](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/prediction_with_nasdaq_feature.ipynb)
+We then tried using multiple generated features in various combinations, trying to predict several days ahead, training the model on all using different stocks data</br>
+[Experiment 2](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/predicting_4d_base_on_25d_input.ipynb)
 
-[Experiment 3](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/using_model_prediction_as_input.ipynb)
+[Experiment 3](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/prediction_with_nasdaq_feature.ipynb)
+
+We attempted to compare the prediction results with GRU vs LSTM</br> 
+[Experiment 4](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/ds_project_gru_vs_lstm.ipynb)
+
+At last we tried to predict several time steps ahead by back feeding the output of the model</br>
+[Experiment 5](https://nbviewer.org/github/vladgrish/ds_spac_project/blob/gh-pages/using_model_prediction_as_input.ipynb)
 
 *** TODO: add notebooks and description
 
 #### Notice: 
+As we realized many of the examples over the internet don't really predict multiple days ahead but rather use new incoming data up to one day before predicted day and only plot the prediction to look like a multi step forcast (hence the lag seen in graphs)
+
+We understood that such results are not usable in real life as it does not allow to make a decision several days ahead. 
 Our last attempt of predicting 20 days ahead gave interesting results. 
 - the predicted price was never above the actual price
-- the predicted timespan had an increase or decrease in price followed by a plateau
+- the predicted timespan had an increase or decrease in price in the first few steps followed by a plateau
 - although the price range around the peak was different for every stock,
 using minmax normalization we were able to use a single model for multiple stocks
+- It appears that when predicting multiple time steps the prediction resembles line more than it does a sawtooth or curve this could be a linked with either the activation function of the last layer, the cost funtion used or the inconsistent variance in the input data, however we did not manage to overcome it (yet)
 
 ### Conclusions and Next Steps
-While predicting one day ahead at a time results can be pretty accurate, it's not really usable
-Making midterm predictions several days ahead is magnitude harder
-Feeding the output of the model as input amplifies biases and creates distortions in the data that seem random
+Conclusions:
+- While predicting one day ahead at a time results can be pretty accurate it's not really usable
+- Making midterm predictions several days ahead is magnitude harder
+- Feeding the output of the model as input amplifies biases and creates distortions in the data that may seem random
 
-*** TODO: add more conclutions based
-*** TODO: add next steps 
+For our next steps we would like to:
+- Fine-tune the model configuration and achieve better understanding of the limitations of our NN with each configuration
+- Address the prediction as indicator of a trend rather than the actual price
+- Better Validate the results for false positives
+- Create a simple function that can be run daily against a premerged SPAC stock list, the uses the trained model and returning a Buy\Don't Buy decision for each stock with the expected price and revenue  
 
 ### Terminology
 - ticker symbol - the 3-4 letter string by which a company is identified in the stock market
