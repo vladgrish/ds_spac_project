@@ -666,7 +666,7 @@ For our next steps we would like to:
 - Address the prediction as indicator of a trend rather than the actual price
 - Better Validate the results for false positives
 - Create a simple function that can be run daily against a premerged SPAC stock list, that will use the trained model as input and return a Buy\Don't Buy decision for each stock with the expected price and profit % at the end of predicted period
-- Explore coraltion between increase of google search of a stock (in goole trends) and an increase in stock volume
+- Explore correlation between increase of google search of a stock (in goole trends) and an increase in trade volume
 
 ### Terminology
 - ticker symbol - the 3-4 letter string by which a company is identified in the stock market
