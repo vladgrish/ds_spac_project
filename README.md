@@ -626,6 +626,7 @@ The trading volume is also persistently low before the acquisition.
 
 ### Experiments and Anlysis
 We started by trying to predict the price of a single stock based on a 30 day observation.
+We used RNN models - (LSTM and GRU) that are capable of learning and remembering over long sequences of inputs.
 In several attempts we tried to use different subsets of features and different outputs (predict the closing price only vs all of the input features as well)
 We also tried several techniques for predicting multiple time steps ahead (predicting 4 days at a time vs predicting 1 day and feeding it back to the model in a loop)
 
@@ -644,11 +645,10 @@ At last we tried to predict several time steps ahead by back feeding the output 
 > [Experiment 5](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/using_model_prediction_as_input.ipynb)
 
 #### Notice: 
-As we realized many of the examples over the internet don't really predict multiple days ahead but rather use new incoming data up to one day before predicted day and only plot the prediction to look like a multi step forcast (hence the lag seen in graphs)
-
-We understood that such results are not usable in real life as it does not allow to make a decision several days ahead. 
+As we realized that our experiments (1-4) don't really predict multiple days ahead, but rather use new incoming data up to one day before predicted day and only plot the prediction to look like a multi step forcast (hence the lag seen in graphs),
+we understood that such results are not usable in real life as it does not allow to make a decision several days ahead. 
 Our last attempt of predicting 20 days ahead gave interesting results. 
-- the predicted price was never above the actual price
+- the predicted price was never above the actual maximum price
 - the predicted timespan had an increase or decrease in price in the first few steps followed by a plateau
 - although the price range around the peak was different for every stock,
 using minmax normalization we were able to use a single model for multiple stocks
@@ -661,10 +661,11 @@ Conclusions:
 - Feeding the output of the model as input amplifies biases and creates distortions in the data that may seem random
 
 For our next steps we would like to:
-- Fine-tune the model configuration and achieve better understanding of the limitations of our NN with each configuration
+- Fine-tune the model configuration and achieve better understanding of the limitations of our RNN with each configuration
 - Address the prediction as indicator of a trend rather than the actual price
 - Better Validate the results for false positives
 - Create a simple function that can be run daily against a premerged SPAC stock list, that will use the trained model as input and return a Buy\Don't Buy decision for each stock with the expected price and profit % at the end of predicted period
+- Explore correlation between increase of google search of a stock (in goole trends) and an increase in trade volume
 
 ### Terminology
 - ticker symbol - the 3-4 letter string by which a company is identified in the stock market
