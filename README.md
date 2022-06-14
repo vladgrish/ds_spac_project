@@ -630,10 +630,10 @@ We used RNN models - (LSTM and GRU) that are capable of learning and remembering
 In several attempts we tried to use different subsets of features and different outputs (predict the closing price only vs all of the input features as well)
 We also tried several techniques for predicting multiple time steps ahead (predicting 4 days at a time vs predicting 1 day and feeding it back to the model in a loop)
 
-At first we tried to predict a single stock closing price using only a sequence of closing prices from 60 days before
+At first, we tried to predict a single stock closing price using only a sequence of closing prices from 60 days before
 > [Experiment 1](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/single_stock_prediction_with_lstm.ipynb)
 
-We then tried using multiple generated features in various combinations, trying to predict several days ahead, training the model on all using different stocks data
+We then tried using multiple generated features in various combinations, trying to predict several days ahead, training the model using different stocks data
 > [Experiment 2](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/predicting_4d_base_on_25d_input.ipynb)
 
 > [Experiment 3](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/prediction_with_nasdaq_feature.ipynb)
@@ -641,7 +641,7 @@ We then tried using multiple generated features in various combinations, trying 
 We attempted to compare the prediction results with GRU vs LSTM
 > [Experiment 4](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/ds_project_gru_vs_lstm.ipynb)
 
-At last we tried to predict several time steps ahead by back feeding the output of the model as input
+At last, we tried to predict several time steps ahead by back feeding the output of the model as input
 > [Experiment 5](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/using_model_prediction_as_input.ipynb)
 
 #### Notice: 
