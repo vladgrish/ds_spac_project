@@ -640,6 +640,7 @@ We then tried using multiple generated features in various combinations, trying 
 
 We attempted to compare the prediction results with GRU vs LSTM
 > [Experiment 4](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/ds_project_gru_vs_lstm.ipynb)
+> [Experiment 4 in nbviewer](url)
 
 At last, we tried to predict several time steps ahead by back feeding the output of the model as input
 > [Experiment 5](https://colab.research.google.com/github/vladgrish/ds_spac_project/blob/gh-pages/using_model_prediction_as_input.ipynb)
